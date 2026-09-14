@@ -1,4 +1,4 @@
-# 🥗 CaloriLens
+# CaloriLens
 
 AI-powered food recognition, portion estimation, and calorie tracking from images.
 
