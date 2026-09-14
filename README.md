@@ -27,7 +27,7 @@ Image → YOLOv8m-Seg → ConvNeXt → Portion Est. → USDA Lookup → LLM Summ
 
 ## Installation
 ```bash
-git clone https://github.com/your-username/CaloriLens.git
+git clone https://github.com/Hajirah403/CaloriLens.git
 cd CaloriLens
 pip install -r requirements.txt
 ```
